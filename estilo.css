@@ -1,0 +1,294 @@
+.menu{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 70px;
+    font-size:20px;
+    font-family: 'Playfair Display'; 
+}
+li{
+   display: inline-block;
+   margin-top: 20px; 
+   margin-right: 10px;
+   padding-left:40px;
+}
+li p {
+    font-size: 15px;
+    color: azure;
+}
+
+.a {
+     color: aliceblue;
+     text-decoration: none;
+}
+
+li a{
+    text-decoration: none;
+    color: aliceblue;
+    float: right;
+}
+
+.texto1{
+    margin-left: 100px;
+    font-size: 20px;
+    text-align: center;
+    color: azure;
+    padding-right: 250px;
+    padding-left: 100px;
+
+}
+body{
+ background-color:#639BD3;
+}
+/*CLASE 1 */
+
+.clase1 p{
+    font-size: 30px;
+    margin-left: 10px;
+   padding-top: 140px;
+   font-family: 'Playfair Display';
+   color: azure;
+}
+.clase1{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: 40px;
+    left: 780px;
+    background-color: #7f93ba
+
+}
+.clase1 a{
+    text-decoration: none;
+    color: azure;
+}
+
+/*CLASE 2 */
+
+.clase2{
+    position: relative;
+    top:60px;
+    left: 780px;
+    right: 50px;
+    width: 300px;
+    height: 200px; 
+    background-color: #667dac
+}
+.clase2 p{
+    font-size: 30px;
+    margin-left: 10px;
+   padding-top: 140px;
+   font-family: 'Playfair Display';
+   color: azure;
+}
+/*CLASE 3*/
+.clase3{
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #4c679f;
+    
+}
+.clase3 p{
+    font-size: 30px;
+    margin-left: 10px;
+   padding-top: 140px;
+   font-family: 'Playfair Display';
+   color: azure;
+}
+/*CLASE 4 */
+.clase4{
+    
+        position: relative;
+        top: 80px;
+        width: 300px;
+        height: 200px;
+        margin-left: 780px;
+        background-color: #3c527f ;
+}
+.clase4 p{
+    font-size: 30px;
+    margin-left: 10px;
+   padding-top: 140px;
+   font-family: 'Playfair Display';
+   color: azure;
+}
+
+/*CLASE 5*/
+
+.clase5{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #2A3958;
+}
+.clase5 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+/*CLASE 6*/
+.clase6{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #101623;
+}
+.clase6 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+/*CLASE 7*/
+.clase7{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #272D38
+}
+.clase7 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+
+/* CLASE 8 */
+.clase8{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #3C424B
+}
+.clase8 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+/*CLASE 9*/
+.clase9{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #767A81
+}
+.clase9 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+/*CLASE 10*/
+.clase10{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #BABCC0
+}
+.clase10 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+
+/* CLASE 11*/
+.clase11{
+    
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #DCDDDF
+}
+.clase11 p{
+font-size: 30px;
+margin-left: 10px;
+padding-top: 140px;
+font-family: 'Playfair Display';
+color: azure;
+}
+.clase11{
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 200px;
+    margin-left: 780px;
+    background-color: #E6E7E8
+}
+
+.h1clase1
+{
+    font-family: 'Playfair Display';
+    margin-left: 250px;
+    color: azure;
+}
+.p1c1{
+    margin-left: 360px;
+    margin-right: 570px;
+    font-family: 'Playfair Display'; 
+     color: azure;
+}
+.p2c1{
+        margin-left: 360px;
+        margin-right: 570px;
+        font-family: 'Playfair Display';
+        color: azure
+}
+.listaclase1{
+    margin-left: 360px;
+    margin-right: 570px;
+    font-family: 'Playfair Display';
+    color: azure;
+}
+.ima{
+    margin-left: 450px;
+}
+.maildanielrojas{
+    text-decoration: none;
+    color: azure;
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    margin-left: 480px;
+}
+.linkwiki{
+    text-decoration: none;
+    color: azure;
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    margin-left: 600px;
+    text-align: center;
+}
+
+.linkwiki:hover{
+    text-decoration: underline;
+}
